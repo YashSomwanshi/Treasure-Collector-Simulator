@@ -12,6 +12,21 @@ A Unity-based Treasure Collector game where player explore a dungeon environment
 - Low-poly dungeon environment
 - XR Device Simulator support for testing without a VR headset
 
+---
+
+## Gameplay Preview
+
+### Dungeon Environment
+![Gameplay](images/gameplay.png)
+
+### Score System
+![Score](images/score.png)
+
+### Victory Screen
+![Win Screen](images/win-screen.png)
+
+---
+
 ## Technologies Used
 
 - Unity 6
